@@ -1,5 +1,7 @@
 # Home Assistant Add-on: Dnsmasq
 
+Forked from https://github.com/home-assistant/addons/tree/master/dnsmasq
+
 ## Installation
 
 Follow these steps to get the add-on installed on your system:
